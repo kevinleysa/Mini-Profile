@@ -43,7 +43,7 @@ Ext.define('MiniProfile.view.main.Main', {
                         draggable: false,
                         target: me.getId(),
                         text: '<img src="images/profile.jpg" style="position:absolute;width:131px;height:120px;"/>' +
-                        '<div style="position:absolute;left:150px;top:14px;width:302px;height:112px;"><B><a href="#">Arielle Jazmine Roque</a></B><br>100 Followers</div><br><br><br><br><br><br><br><br>'
+                        '<div style="position:absolute;left:150px;top:14px;width:302px;height:112px;"><B><a href="#">Arielle Jazmine Leysa</a></B><br>100 Followers</div><br><br><br><br><br><br><br><br>'
                     });
                 }
             }
